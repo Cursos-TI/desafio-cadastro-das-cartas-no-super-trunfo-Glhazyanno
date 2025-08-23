@@ -7,8 +7,6 @@
 //Glhazyanno Linhares Braga
 
 
-#include <stdio.h>
-
 int main() {
     char estadocarta1, estadocarta2;
     char codigocarta1[4], codigocarta2[4];
